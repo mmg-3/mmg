@@ -1,2 +1,2 @@
-# mmg
-maybachmediagroup
+# Maybach Media Group
+MMG
